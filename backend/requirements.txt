@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-text-splitters
+numpy
+httpx
+python-dotenv
+sse-starlette
+pydantic
+slowapi
+langchain-groq
+langchain-huggingface
